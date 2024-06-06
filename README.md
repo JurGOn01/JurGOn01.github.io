@@ -1,4 +1,4 @@
-# georgeagorak.co.uk
+# jurgon01.co.uk
 Custom made website with HTML,CSS and JavaScript.
 
 Notes:
